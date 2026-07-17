@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Aiming to build systems that just work.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2EE6A8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+%7C+System+Design+Enthusiast;Node.js+%2B+React+%2B+MongoDB;Building+Scalable+SaaS+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2EE6A8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+%26+System+Design;Node.js+%2B+React+%2B+MongoDB;Building+Scalable+SaaS+Products" alt="Typing SVG" />
 </p>
 
 <p align="center">
