@@ -82,6 +82,7 @@ fun_fact: I enjoy designing scalable backend systems.
 <p>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
   <img src="https://img.shields.io/badge/bcrypt-FF4B4B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Argon2-2E2E2E?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/RBAC-5A29E4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Email_Verification-4285F4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Refresh_Token_Auth-000000?style=for-the-badge"/>
