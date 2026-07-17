@@ -164,11 +164,6 @@ fun_fact: I enjoy designing scalable backend systems.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ravipariyar&show_icons=true&theme=react&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravipariyar&layout=compact&theme=react&hide_border=true"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=ravipariyar&theme=react&hide_border=true"/>
 </p>
 
