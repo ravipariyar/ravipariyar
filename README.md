@@ -24,10 +24,16 @@
 ```yaml
 name: Ravi Pariyar
 role: Full Stack Developer (MERN)
-focus: Scalable Backend Systems & SaaS Architecture
+focus:
+  - Backend Engineering
+  - SaaS Development
+  - System Design
 currently_building: Engageo
-learning: System Design & Distributed Systems
-fun_fact: I enjoy turning messy requirements into clean architecture
+currently_learning:
+  - System Design
+  - Distributed Systems
+  - Cloud Infrastructure
+fun_fact: I enjoy designing scalable backend systems.
 ```
 
 ---
@@ -59,12 +65,17 @@ fun_fact: I enjoy turning messy requirements into clean architecture
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Webhooks-6C47FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Email_Services-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/File_Uploads-4CAF50?style=for-the-badge"/>
 </p>
 
 ### 🗄️ Database
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Aggregation_Pipeline-4DB33D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Indexing-13AA52?style=for-the-badge"/>
 </p>
 
 ### 🔐 Auth & Security
@@ -72,6 +83,8 @@ fun_fact: I enjoy turning messy requirements into clean architecture
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
   <img src="https://img.shields.io/badge/bcrypt-FF4B4B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/RBAC-5A29E4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Email_Verification-4285F4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Refresh_Token_Auth-000000?style=for-the-badge"/>
 </p>
 
 ### 💳 Payments & Integrations
@@ -89,6 +102,8 @@ fun_fact: I enjoy turning messy requirements into clean architecture
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=libreoffice&logoColor=white"/>
 </p>
 
 ---
@@ -117,6 +132,8 @@ fun_fact: I enjoy turning messy requirements into clean architecture
 - Subscription Billing
 - Database Schema Design
 - Pagination & Query Optimization
+- API Versioning
+- Error Handling Strategy
 
 </td>
 </tr>
@@ -144,6 +161,35 @@ fun_fact: I enjoy turning messy requirements into clean architecture
 
 ---
 
+## 🚀 Featured Projects
+
+### 🔹 [Engageo](https://github.com/ravipariyar/Engageo)
+> Multi-tenant WhatsApp Marketing SaaS
+
+- WhatsApp Business Cloud API integration
+- Subscription Billing & Razorpay payments
+- Real-time messaging with Socket.IO
+- Feature-Based Architecture
+- Role-Based Access Control (RBAC)
+
+### 🔹 BrandShield
+> Domain Impersonation & Typosquatting Detection Tool
+
+- DNS lookup & WHOIS analysis
+- Domain similarity detection engine
+- Automated domain intelligence reporting
+
+### 🔹 Assignment Automation System
+> AI-powered document generation pipeline
+
+- AI-based assignment content generator
+- DOCX & PDF export pipeline
+- Custom template engine
+
+> 💡 *Update these links/repos with your actual project URLs once pushed to GitHub.*
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -152,7 +198,7 @@ fun_fact: I enjoy turning messy requirements into clean architecture
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravipariyar&theme=react&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=ravipariyar&theme=react&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -164,7 +210,7 @@ fun_fact: I enjoy turning messy requirements into clean architecture
 ## 🌱 Currently
 
 - 🔭 Working on **Engageo**
-- 🌱 Learning **System Design & Distributed Systems**
+- 🌱 Learning **System Design, Distributed Systems & Cloud Infrastructure**
 - 💬 Ask me about **Node.js, MongoDB, System Architecture**
 - 📫 Reach me at **ravipariyar518110@gmail.com**
 
