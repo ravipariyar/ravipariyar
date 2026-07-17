@@ -172,10 +172,6 @@ fun_fact: I enjoy designing scalable backend systems.
   <img src="https://streak-stats.demolab.com/?user=ravipariyar&theme=react&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ravipariyar&theme=algolia&no-frame=true&row=1&column=6&margin-w=8&margin-h=8"/>
-</p>
-
 ---
 
 ## 🌱 Currently
