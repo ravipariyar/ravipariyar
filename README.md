@@ -103,7 +103,6 @@ fun_fact: I enjoy designing scalable backend systems.
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=libreoffice&logoColor=white"/>
 </p>
 
 ---
@@ -161,39 +160,10 @@ fun_fact: I enjoy designing scalable backend systems.
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 [Engageo](https://github.com/ravipariyar/Engageo)
-> Multi-tenant WhatsApp Marketing SaaS
-
-- WhatsApp Business Cloud API integration
-- Subscription Billing & Razorpay payments
-- Real-time messaging with Socket.IO
-- Feature-Based Architecture
-- Role-Based Access Control (RBAC)
-
-### 🔹 BrandShield
-> Domain Impersonation & Typosquatting Detection Tool
-
-- DNS lookup & WHOIS analysis
-- Domain similarity detection engine
-- Automated domain intelligence reporting
-
-### 🔹 Assignment Automation System
-> AI-powered document generation pipeline
-
-- AI-based assignment content generator
-- DOCX & PDF export pipeline
-- Custom template engine
-
-> 💡 *Update these links/repos with your actual project URLs once pushed to GitHub.*
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ravipariyar&show_icons=true&theme=react&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ravipariyar&show_icons=true&theme=react&hide_border=true"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravipariyar&layout=compact&theme=react&hide_border=true"/>
 </p>
 
@@ -202,7 +172,7 @@ fun_fact: I enjoy designing scalable backend systems.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ravipariyar&theme=algolia&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ravipariyar&theme=algolia&no-frame=true&row=1&column=6&margin-w=8&margin-h=8"/>
 </p>
 
 ---
