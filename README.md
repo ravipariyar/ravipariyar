@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravi Pariyar</h1>
-<h3 align="center">🚀 I design and build backend systems that scale.</h3>
+<h3 align="center">🚀 Aiming to build systems that just work.</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2EE6A8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+%26+System+Design;Node.js+%2B+React+%2B+MongoDB;Building+Scalable+SaaS+Products" alt="Typing SVG" />
@@ -52,6 +52,13 @@ fun_fact: I enjoy designing scalable backend systems.
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
+### 🧠 Problem Solving
+<p>
+  <img src="https://img.shields.io/badge/Data_Structures-2E2E2E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Algorithms-2E2E2E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</p>
+
 ### 🎨 Frontend
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
@@ -65,6 +72,8 @@ fun_fact: I enjoy designing scalable backend systems.
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BullMQ-DD0031?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Webhooks-6C47FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Email_Services-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   <img src="https://img.shields.io/badge/File_Uploads-4CAF50?style=for-the-badge"/>
@@ -76,6 +85,23 @@ fun_fact: I enjoy designing scalable backend systems.
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
   <img src="https://img.shields.io/badge/Aggregation_Pipeline-4DB33D?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Indexing-13AA52?style=for-the-badge"/>
+</p>
+
+### 🌐 Networking
+<p>
+  <img src="https://img.shields.io/badge/TCP%2FIP-2E2E2E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HTTP%2FHTTPS-2E2E2E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DNS-2E2E2E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WebSockets-2E2E2E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CORS-2E2E2E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OSI_Model-2E2E2E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Load_Balancing-2E2E2E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Reverse_Proxy-2E2E2E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Subnetting-2E2E2E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Routing-2E2E2E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VPN-2E2E2E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Firewalls-2E2E2E?style=for-the-badge"/>
 </p>
 
 ### 🔐 Auth & Security
