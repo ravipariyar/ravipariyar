@@ -56,7 +56,6 @@ fun_fact: I enjoy designing scalable backend systems.
 <p>
   <img src="https://img.shields.io/badge/Data_Structures-2E2E2E?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Algorithms-2E2E2E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </p>
 
 ### 🎨 Frontend
